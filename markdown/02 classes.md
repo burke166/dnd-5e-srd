@@ -1,8 +1,6 @@
-Barbarian
-=========
+# Barbarian
 
-Class Features
---------------
+## Class Features
 
 As a barbarian, you gain the following class features.
 
@@ -157,11 +155,9 @@ If the creature succeeds on its saving throw, you can’t use this feature on th
 
 Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
 
-Bard
-====
+# Bard
 
-Class Features
---------------
+## Class Features
 
 As a bard, you gain the following class features.
 
@@ -339,11 +335,9 @@ At 6th level, you learn two spells of your choice from any class. A spell you ch
 
 Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
 
-Cleric
-======
+# Cleric
 
-Class Features
---------------
+## Class Features
 
 As a cleric, you gain the following class features.
 
@@ -535,11 +529,9 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
 
-Druid
-=====
+# Druid
 
-Class Features
---------------
+## Class Features
 
 As a druid, you gain the following class features.
 
@@ -792,11 +784,9 @@ Druids from regions that lack the plants described here have chosen other plants
 
 Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
 
-Fighter
-=======
+# Fighter
 
-Class Features
---------------
+## Class Features
 
 As a fighter, you gain the following class features.
 
@@ -913,8 +903,7 @@ Beginning at 9th level, you can reroll a saving throw that you fail. If you do s
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 
-Martial Archetypes
-------------------
+## Martial Archetypes
 
 Different fighters choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach.
 
@@ -944,11 +933,9 @@ Starting at 15th level, your weapon attacks score a critical hit on a roll of 18
 
 At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don’t gain this benefit if you have 0 hit points.
 
-Monk
-====
+# Monk
 
-Class Features
---------------
+## Class Features
 
 As a monk, you gain the following class features.
 
@@ -1117,8 +1104,7 @@ Additionally, you can spend 8 ki points to cast the *astral projection* spell, w
 
 At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.
 
-Monastic Traditions
--------------------
+## Monastic Traditions
 
 Three traditions of monastic pursuit are common in the monasteries scattered across the multiverse. Most monasteries practice one tradition exclusively, but a few honor the three traditions and instruct each monk according to his or her aptitude and interest. All three traditions rely on the same basic techniques, diverging as the student grows more adept. Thus, a monk need choose a tradition only upon reaching 3rd level.
 
@@ -1147,11 +1133,9 @@ At 17th level, you gain the ability to set up lethal vibrations in someone’s b
 
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
 
-Paladin
-=======
+# Paladin
 
-Class Features
---------------
+## Class Features
 
 As a paladin, you gain the following class features.
 
@@ -1330,8 +1314,7 @@ Beginning at 14th level, you can use your action to end one spell on yourself or
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
-Sacred Oaths
-------------
+## Sacred Oaths
 
 Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the paladin’s training. Some characters with this class don’t consider themselves true paladins until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin’s heart.
 
@@ -1407,11 +1390,9 @@ A paladin who has broken a vow typically seeks absolution from a cleric who shar
 
 If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM’s discretion, an impenitent paladin might be forced to abandon this class and adopt another.
 
-Ranger
-======
+# Ranger
 
-Class Features
---------------
+## Class Features
 
 As a ranger, you gain the following class features.
 
@@ -1582,8 +1563,7 @@ You are also aware of the location of any invisible creature within 30 feet of y
 
 At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
 
-Ranger Archetypes
------------------
+## Ranger Archetypes
 
 The ideal of the ranger has two classic expressions: the Hunter and the Beast Master.
 
@@ -1629,11 +1609,9 @@ At 15th level, you gain one of the following features of your choice.
 
 ***Uncanny Dodge.*** When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
 
-Rogue
-=====
+# Rogue
 
-Class Features
---------------
+## Class Features
 
 As a rogue, you have the following class features.
 
@@ -1752,8 +1730,7 @@ At 20th level, you have an uncanny knack for succeeding when you need to. If you
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
-Roguish Archetypes
-------------------
+## Roguish Archetypes
 
 Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes. Your choice of archetype is a reflection of your focus—not necessarily an indication of your chosen profession, but a description of your preferred techniques.
 
@@ -1783,11 +1760,9 @@ By 13th level, you have learned enough about the workings of magic that you can 
 
 When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
 
-Sorcerer
-========
+# Sorcerer
 
-Class Features
---------------
+## Class Features
 
 As a sorcerer, you gain the following class features.
 
@@ -1966,8 +1941,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
 
-Sorcerous Origins
------------------
+## Sorcerous Origins
 
 Different sorcerers claim different origins for their innate magic. Although many variations exist, most of these origins fall into two categories: a draconic bloodline and wild magic.
 
@@ -2016,11 +1990,9 @@ You can’t manifest your wings while wearing armor unless the armor is made to 
 
 Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
-Warlock
-=======
+#Warlock
 
-Class Features
---------------
+## Class Features
 
 As a warlock, you gain the following class features.
 
@@ -2165,8 +2137,7 @@ At higher levels, you gain more warlock spells of your choice that can be cast i
 
 At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
 
-Eldritch Invocations
---------------------
+## Eldritch Invocations
 
 If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
 
@@ -2342,8 +2313,7 @@ You can cast *speak with dead* at will, without expending a spell slot.
 
 You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
 
-Otherworldly Patrons
---------------------
+## Otherworldly Patrons
 
 The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return.
 
@@ -2399,11 +2369,9 @@ Each Pact Boon option produces a special creature or an object that reflects you
 
 ***Pact of the Tome.*** Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.
 
-Wizard
-======
+# Wizard
 
-Class Features
---------------
+## Class Features
 
 As a wizard, you gain the following class features.
 
@@ -2530,8 +2498,7 @@ When you reach 20th level, you gain mastery over two powerful spells and can cas
 
 If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
-Arcane Traditions
------------------
+## Arcane Traditions
 
 The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in fantasy gaming worlds, with various traditions dedicated to its complex study.
 

@@ -1,5 +1,4 @@
-Races
-=====
+# Races
 
 ### Racial Traits
 
@@ -33,8 +32,7 @@ By virtue of your race, your character can speak, read, and write certain langua
 
 Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world.
 
-Dwarf
------
+## Dwarf
 
 ### Dwarf Traits
 
@@ -70,8 +68,7 @@ As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience
 
 ***Dwarven Toughness.*** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
-Elf
----
+## Elf
 
 ### Elf Traits
 
@@ -111,8 +108,7 @@ As a high elf, you have a keen mind and a mastery of at least the basics of magi
 
 ***Extra Language.*** You can speak, read, and write one extra language of your choice.
 
-Halfling
---------
+## Halfling
 
 ### Halfling Traits
 
@@ -146,8 +142,7 @@ Lightfoots are more prone to wanderlust than other halflings, and often dwell al
 
 ***Naturally Stealthy.*** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 
-Human
------
+## Human
 
 ### Human Traits
 
@@ -165,8 +160,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 ***Languages.*** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
-Dragonborn
-----------
+## Dragonborn
 
 ### Dragonborn Traits
 
@@ -209,8 +203,7 @@ After you use your breath weapon, you can’t use it again until you complete a 
 
 ***Languages.*** You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
 
-Gnome
------
+## Gnome
 
 ### Gnome Traits
 
@@ -248,8 +241,7 @@ When you create a device, choose one of the following options:
 - *Fire Starter.* The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
 - *Music Box.* When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
 
-Half-Elf
---------
+## Half-Elf
 
 ### Half-Elf Traits
 
@@ -274,8 +266,7 @@ followers. They chafe at rules, resent others’ demands, and sometimes prove un
 
 ***Languages.*** You can speak, read, and write Common, Elvish, and one extra language of your choice.
 
-Half-Orc
---------
+## Half-Orc
 
 ### Half-Orc Traits
 
@@ -301,8 +292,7 @@ Your half-orc character has certain traits deriving from your orc ancestry.
 
 ***Languages.*** You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
 
-Tiefling
---------
+## Tiefling
 
 ### Tiefling Traits
 

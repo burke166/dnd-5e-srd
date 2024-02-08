@@ -1,5 +1,4 @@
-Monsters
-========
+# Monsters
 
 A monster’s statistics, sometimes referred to as its **stat block**, provide the essential information that you need to run the monster.
 
@@ -368,8 +367,7 @@ If a legendary creature has lair actions, it can use them to harness the ambient
 
 The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
 
-Monsters (A)
-------------
+## Monsters (A)
 
 #### Aboleth
 
@@ -754,8 +752,7 @@ Constitution saving throw against the caster’s spell save DC or fall unconscio
 
 ***Warhammer.** Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
-Monsters (B)
-------------
+## Monsters (B)
 
 #### Basilisk
 
@@ -887,8 +884,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Deadly Leap.*** If the bulette jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target’s choice) or be knocked prone and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage. On a successful save, the creature takes only half the damage, isn’t knocked prone, and is pushed 5 feet out of the bulette’s space into an unoccupied space of the creature’s choice. If no unoccupied space is within range, the creature instead falls prone in the bulette’s space.
 
-Monsters (C)
-------------
+## Monsters (C)
 
 #### Centaur
 
@@ -1110,8 +1106,7 @@ At will: *detect evil and good*, *detect magic*, *detect thoughts*
 
 In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form.
 
-Monsters (D)
-------------
+## Monsters (D)
 
 #### Darkmantle
 
@@ -4120,8 +4115,7 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 ***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 
-Monsters (E)
-------------
+## Monsters (E)
 
 #### Elementals
 
@@ -4388,8 +4382,7 @@ At will: *dancing lights*
 
 ***Morningstar.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) piercing damage.
 
-Monsters (F)
-------------
+## Monsters (F)
 
 #### Fungi
 
@@ -4452,8 +4445,7 @@ Monsters (F)
 ***Rotting Touch.** Melee Weapon Attack:* +2 to hit, reach 10 ft., one creature. *Hit:* 4 (1d8) necrotic damage.
 
 
-Monsters (G)
-------------
+## Monsters (G)
 
 #### Gargoyle
 
@@ -5339,8 +5331,7 @@ The golem’s creator, if within 60 feet of the berserk golem, can try to calm i
 
 ***Spiked Bone Club.** Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 
-Monsters (H)
-------------
+## Monsters (H)
 
 #### Hags
 
@@ -5725,8 +5716,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Bite.** Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage.
 
-Monsters (I)
-------------
+## Monsters (I)
 
 #### Invisible Stalker
 
@@ -5766,8 +5756,7 @@ Monsters (I)
 
 ***Slam.** Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage.
 
-Monsters (K)
-------------
+## Monsters (K)
 
 #### Kobold
 
@@ -5855,8 +5844,7 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 **Ink Cloud (Costs 3 Actions).** While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken’s next turn.
 
-Monsters (L)
-------------
+## Monsters (L)
 
 #### Lamia
 
@@ -6193,8 +6181,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 ***Spear (Humanoid Form Only).** Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 
-Monsters (M)
-------------
+## Monsters (M)
 
 #### Magmin
 
@@ -6692,8 +6679,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **Whirlwind of Sand (Costs 2 Actions).** The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can’t be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
 
-Monsters (N)
-------------
+## Monsters (N)
 
 #### Nagas
 
@@ -6815,8 +6801,7 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 ***Ethereal Stride.*** The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
 
-Monsters (O)
-------------
+## Monsters (O)
 
 #### Ogre
 
@@ -7145,8 +7130,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ***Claws.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage.
 
-Monsters (P)
-------------
+## Monsters (P)
 
 #### Pegasus
 
@@ -7244,8 +7228,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 ***Tail Stinger.** Melee Weapon Attack:* +9 to hit, reach 10 ft., one creature. *Hit:* 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
-Monsters (R)
-------------
+## Monsters (R)
 
 #### Rakshasa
 
@@ -7423,8 +7406,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 If the object touched is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.
 
-Monsters (S)
-------------
+## Monsters (S)
 
 #### Sahuagin
 
@@ -8011,8 +7993,7 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damag
 
 ***Etherealness.*** The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
 
-Monsters (T)
-------------
+## Monsters (T)
 
 #### Tarrasque
 
@@ -8149,12 +8130,11 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 ***Claw.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
 
-Monsters (U)
-------------
+## Monsters (U)
 
 #### Unicorn
 
-*Large celestial**,** lawful good*
+*Large celestial, lawful good*
 
 **Armor Class** 12
 
@@ -8209,8 +8189,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 **Heal Self (Costs 3 Actions).** The unicorn magically regains 11 (2d8 + 2) hit points.
 
-Monsters (V)
-------------
+## Monsters (V)
 
 #### Vampires
 
@@ -8338,8 +8317,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 ***Bite.** Melee Weapon Attack:* +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. *Hit:* 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-Monsters (W)
-------------
+## Monsters (W)
 
 #### Wight
 
@@ -8491,8 +8469,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 ***Stinger.** Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 
-Monsters (X)
-------------
+## Monsters (X)
 
 #### Xorn
 
@@ -8532,8 +8509,7 @@ Monsters (X)
 
 ***Bite.** Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (3d6 + 3) piercing damage.
 
-Monsters (Z)
-------------
+## Monsters (Z)
 
 #### Zombies
 

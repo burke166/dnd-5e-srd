@@ -1,8 +1,6 @@
-Combat
-======
+# Combat
 
-The Order of Combat
--------------------
+## The Order of Combat
 
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A
 **round** represents about 6 seconds in the game world. During a round, each participant in a battle takes a **turn**. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
@@ -67,8 +65,7 @@ Certain special abilities, spells, and situations allow you to take a special ac
 
 When you take a reaction, you can’t take another one until the start of your next turn. If the reaction interrupts another creature’s turn, that creature can continue its turn right after the reaction.
 
-Movement and Position
----------------------
+## Movement and Position
 
 In combat, characters and monsters are in constant motion, often using movement and position to gain the upper hand.
 
@@ -172,8 +169,7 @@ Here are a few examples of the sorts of thing you can do in tandem with your mov
 - tap the floor with a 10-foot pole
 - hand an item to another character
 
-Actions in Combat
------------------
+## Actions in Combat
 
 When you take your action on your turn, you can take one of the actions presented here, an action you gained from your class or a special feature, or an action that you improvise. Many monsters have action options of their own in their stat blocks.
 
@@ -233,14 +229,13 @@ When you take the Search action, you devote your attention to finding something.
 
 You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
 
-Making an Attack
-----------------
+## Making an Attack
 
 Whether you’re striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure.
 
-1.  **Choose a target.** Pick a target within your attack’s range: a creature, an object, or a location.
-2.  **Determine modifiers.** The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
-3.  **Resolve the attack.** You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
+1. **Choose a target.** Pick a target within your attack’s range: a creature, an object, or a location.
+2. **Determine modifiers.** The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
+3. **Resolve the attack.** You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
 If there’s ever any question whether something you’re doing counts as an attack, the rule is simple: if you’re making an attack roll, you’re making an attack.
 
@@ -333,8 +328,7 @@ Using the Attack action, you can make a special melee attack to shove a creature
 
 The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you.
 
-Cover
------
+## Cover
 
 Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm. A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
 
@@ -346,8 +340,7 @@ A target with **three-quarters cover** has a +5 bonus to AC and Dexterity saving
 
 A target with **total cover** can’t be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
 
-Damage and Healing
-------------------
+## Damage and Healing
 
 Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed arrow, or a blast of flame from a *fireball* spell all have the potential to damage, or even kill, the hardiest of creatures.
 
@@ -479,8 +472,7 @@ If you have 0 hit points, receiving temporary hit points doesn’t restore you t
 
 Unless a feature that grants you temporary hit points has a duration, they last until they’re depleted or you finish a long rest.
 
-Mounted Combat
---------------
+## Mounted Combat
 
 A knight charging into battle on a warhorse, a wizard casting spells from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
 
@@ -504,8 +496,7 @@ An independent mount retains its place in the initiative order. Bearing a rider 
 
 In either case, if the mount provokes an opportunity attack while you’re on it, the attacker can target you or the mount.
 
-Underwater Combat
------------------
+## Underwater Combat
 
 When adventurers pursue sahuagin back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.
 

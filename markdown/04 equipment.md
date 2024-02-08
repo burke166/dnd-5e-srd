@@ -1,5 +1,4 @@
-Equipment
-=========
+# Equipment
 
 Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 
@@ -36,8 +35,7 @@ Opportunities abound to find treasure, equipment, weapons, armor, and more in th
 
 ***Trade Goods.*** On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency.
 
-Armor
------
+## Armor
 
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.
 
@@ -143,8 +141,7 @@ The time it takes to don or doff armor depends on the armor’s category.
 | Heavy Armor  | 10 minutes | 5 minutes |
 | Shield        | 1 action   | 1 action  |
 
-Weapons
--------
+## Weapons
 
 Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
 
@@ -263,8 +260,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | Longbow         | 50 gp | 1d8 piercing  |  2 lb.  | Ammunition (range 150/600), heavy, two-handed          |
 | Net             | 1 gp  | —             |  3 lb.  | Special, thrown (range 5/15)                           |
 
-Adventuring Gear
-----------------
+## Adventuring Gear
 
 This section describes items that have special rules or require further explanation.
 
@@ -492,8 +488,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 ***Scholar’s Pack (40 gp).*** Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
 
-Tools
------
+## Tools
 
 A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver’s tools, or a Strength check to make something out of particularly hard wood.
 
@@ -561,8 +556,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 
 ***Thieves’ Tools.*** This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
 
-Mounts and Vehicles
--------------------
+## Mounts and Vehicles
 
 A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal’s speed and base carrying capacity.
 
@@ -647,8 +641,7 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 | 50 gp  | 1 lb. of gold                                |
 | 500 gp | 1 lb. of platinum                            |
 
-Expenses
---------
+## Expenses
 
 When not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.
 

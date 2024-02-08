@@ -1,12 +1,10 @@
-Spellcasting
-============
+# Spellcasting
 
 Magic permeates fantasy gaming worlds and often appears in the form of a spell.
 
 This chapter provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
 
-What Is a Spell?
-----------------
+## What Is a Spell?
 
 A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds.
 
@@ -56,8 +54,7 @@ Certain spells have a special tag: ritual. Such a spell can be cast following th
 
 To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character’s ritual feature specifies otherwise, as the wizard’s does.
 
-Casting a Spell
----------------
+## Casting a Spell
 
 When a character casts any spell, the same basic rules are followed, regardless of the character’s class or the spell’s effects.
 
@@ -226,8 +223,7 @@ Creating the undead through the use of necromancy spells such as *animate dead* 
 
 **Transmutation** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster’s command, or enhance a creature’s innate healing abilities to rapidly recover from injury.
 
-Spell Lists
------------
+## Spell Lists
 
 ### Bard Spells
 
@@ -1143,8 +1139,7 @@ Spell Lists
 - Weird
 - Wish
 
-Spell Descriptions
-------------------
+## Spell Descriptions
 
 #### Acid Arrow
 
